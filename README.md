@@ -29,7 +29,7 @@ The AdventureWorks Sales Analytics Dashboard visually explores retail, customer,
 ### Features / Highlights
 
 #### Business Problem
-AdventureWorks needed a scalable BI solution to track company performance and drive decision-making efficiently. Key challenges include visualizing multi-million-dollar revenue figures and monitoring product-level orders in the tens of thousands—both directly informing sales, marketing, and operations.
+AdventureWorks needed a scalable BI solution to track company performance and support efficient decision-making. Key challenges include visualizing multi-million-dollar revenue figures and monitoring product-level orders in the tens of thousands—both of which directly inform sales, marketing, and operations.
 
 #### Goal of the Dashboard
 To empower business users to answer high-impact questions quickly, such as:
@@ -71,6 +71,6 @@ To empower business users to answer high-impact questions quickly, such as:
 
 ***
   
-- 🔗 Feel free to explore the '.pbix' file and adapt it to your own customer datasets.
+- 🔗 Feel free to explore the '.pbix' file.
 - Get the interactive report:
 - https://app.powerbi.com/reportEmbed?reportId=5f82757e-bc30-44c3-830d-91b0792053aa&autoAuth=true&ctid=5caed4d5-4e56-4ec7-b17f-151f4302cd12&actionBarEnabled=true
